@@ -1,2 +1,2 @@
 # LeoLLM
-Finetuned a LLM using the Gradient API to create an AI workout coaching assistant (Leo) to generate customized workouts and guide users.
+In this project, I fine-tuned a language model (Nous Hermes Llama 2) using the Gradient API to create an AI workout coaching assistant named Leo. By concentrating on fine-tuning and prompt engineering, I designed realistic and personalized workout routines while instilling a motivating personality in Leo. I also integrated the model into the backend using TypeScript, facilitating seamless communication with the Gradient API. A sample dataset is included in Alpaca format, showcasing the effective combination of technology and user experience in fitness coaching.
